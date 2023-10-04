@@ -1,8 +1,10 @@
-# 3 Days Data-Science & Analytics Workshop 
+# About the Workshop 
 
-## In this workshop organized and conducted by CODERS READY, we explored the power of mapping and data visualization using Python. Over the course of three days, we engaged in hands-on projects that allowed us to gain valuable insights into data representation and analysis.
+## Welcome to the "3-Days Data Science and App Development Workshop" by Coders Ready!
 
-## Key Topics Covered
+Objective: This intensive three-day workshop is designed to equip participants with essential skills in data science and app development. Whether you are a beginner looking to start your journey or an experienced coder seeking to enhance your knowledge, our workshop offers a comprehensive learning experience.
+
+Workshop Highlights:
 
 ### Day 1: Advanced Mapping with Cartopy
 
